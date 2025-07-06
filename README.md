@@ -1,4 +1,4 @@
-jornal ---__--escola
+jornal-__--escola
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
